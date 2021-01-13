@@ -2,7 +2,8 @@
 
 ## 📚 이것이 코딩 테스트다 with 파이썬
 ### Chapter 3 그리디
-
+#### - [Example Problems][ch3_ex]
+#### - BOJ
 - [1339][1339] 단어수학  
 - [1931][1931] 회의실 배정  
 - [2217][2217] 로프  
@@ -12,6 +13,7 @@
 - [13458][13458] 시험감독  
 
 
+[ch3_ex]: https://github.com/YeHoonJang/Algorithm_CodingInterview/blob/master/This_Is_Coding_Test/Chapter3_Greedy.ipynb  
 [1339]: https://github.com/YeHoonJang/Algorithm_CodingInterview/blob/master/boj/Greedy/1339_단어수학.py 
 [1931]: https://github.com/YeHoonJang/Algorithm_CodingInterview/blob/master/boj/Greedy/1931_회의실배정.py
 [2217]: https://github.com/YeHoonJang/Algorithm_CodingInterview/blob/master/boj/Greedy/2217_로프.py  
