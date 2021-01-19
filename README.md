@@ -32,11 +32,11 @@
 [11399]: https://github.com/YeHoonJang/Algorithm_CodingInterview/blob/master/boj/Greedy/11399_ATM.py
 [13458]: https://github.com/YeHoonJang/Algorithm_CodingInterview/blob/master/boj/Greedy/13458_시험감독.py  
 
-[ch4_ex]: https://github.com/YeHoonJang/Algorithm_CodingInterview/blob/master/This_Is_Coding_Test/Ch04_Implemantation.ipynb  
+[ch4_ex]: https://github.com/YeHoonJang/Algorithm_CodingInterview/blob/master/This_Is_Coding_Test/Ch04_Implmentation.ipynb  
 
 [ch5_ex]: https://github.com/YeHoonJang/Algorithm_CodingInterview/blob/master/This_Is_Coding_Test/Ch05_DFS_BFS.ipynb  
 
 [ch6_ex]: https://github.com/YeHoonJang/Algorithm_CodingInterview/blob/master/This_Is_Coding_Test/Ch06_Sorting.ipynb  
-[18310]: https://github.com/YeHoonJang/Algorithm_CodingInterview/blob/master/boj/Greedy/18310_안테나.py    
+[18310]: https://github.com/YeHoonJang/Algorithm_CodingInterview/blob/master/boj/Sorting/18310_안테나.py    
 
 
