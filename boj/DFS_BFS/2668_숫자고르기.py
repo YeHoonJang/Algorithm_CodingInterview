@@ -2,26 +2,29 @@ n = int(input())
 graph = [int(input()) for i in range(n)]
 graph.insert(0, 0)
 
-visited = [False] * (n+1)
+visited = [False] * (n + 1)
+
+
 def dfs(graph, i, visited):
-    #i = (3,0)
-    #next = (1,0)
+    # i = (3,0)
+    # next = (1,0)
     next = graph[i[0]]
 
-    #루프가 계속 돌면 종료
+    # 루프가 계속 돌면 종료
     if i[1] == 2 and next[1] == 2:
         visited[i[0]] = True
         visited[next[0]] = True
         return visited
 
-    #루프 생성 전
+    # 루프 생성 전
     if i[1] < 2:
-        next[1]+=1
-        i[1]+=1
+        next[1] += 1
+        i[1] += 1
         dfs(graph, next, visited)
 
-for i in range(1, n+1):
-    tmp = [[i, 0] for i in graph]
+
+for i in range(1, n + 1):
+    tmp = [[j, 0] for j in graph]
     dfs(tmp, tmp[i], visited)
 
 print(sum(visited))
@@ -30,8 +33,6 @@ valid = [i for i in range(1, len(visited)) if visited[i] == 1]
 valid.sort()
 for i in valid:
     print(i)
-
-
 
 # def dfs(i):
 #     x = under_row[i]

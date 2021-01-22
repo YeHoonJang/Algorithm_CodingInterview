@@ -17,10 +17,16 @@
 
 ### Chapter 5 DFS&BFS  
 #### - [Example Problems][ch5_ex]  
+#### - BOJ
+- [2668][2668] 숫자고르기  
+
 
 ### Chapter 6 정렬  
 #### - [Example Problems][ch6_ex]
 #### - BOJ
+- [1157][1157] 단어공부
+- [1213][1213] 펠린드롬 만들기
+- [10825][10825] 국영수
 - [18310][18310] 안테나  
 
 [ch3_ex]: https://github.com/YeHoonJang/Algorithm_CodingInterview/blob/master/This_Is_Coding_Test/Ch03_Greedy.ipynb  
@@ -35,8 +41,12 @@
 [ch4_ex]: https://github.com/YeHoonJang/Algorithm_CodingInterview/blob/master/This_Is_Coding_Test/Ch04_Implementation.ipynb  
 
 [ch5_ex]: https://github.com/YeHoonJang/Algorithm_CodingInterview/blob/master/This_Is_Coding_Test/Ch05_DFS_BFS.ipynb  
+[2668]: https://github.com/YeHoonJang/Algorithm_CodingInterview/blob/master/boj/DFS_BFS/2668_숫자고르기.py 
 
 [ch6_ex]: https://github.com/YeHoonJang/Algorithm_CodingInterview/blob/master/This_Is_Coding_Test/Ch06_Sorting.ipynb  
+[1157]: https://github.com/YeHoonJang/Algorithm_CodingInterview/blob/master/boj/Sorting/1157_단어공부.py
+[1213]: https://github.com/YeHoonJang/Algorithm_CodingInterview/blob/master/boj/Sorting/1213_펠린드롬만들기.py
+[10825]: https://github.com/YeHoonJang/Algorithm_CodingInterview/blob/master/boj/Sorting/10825_국영수.py  
 [18310]: https://github.com/YeHoonJang/Algorithm_CodingInterview/blob/master/boj/Sorting/18310_안테나.py    
 
 
