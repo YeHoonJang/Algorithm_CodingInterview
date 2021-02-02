@@ -1,9 +1,9 @@
 n = int(input())
 graph = [int(input()) for i in range(n)]
+
 graph.insert(0, 0)
 
 visited = [False] * (n + 1)
-
 
 def dfs(graph, i, visited):
     # i = (3,0)
@@ -21,7 +21,6 @@ def dfs(graph, i, visited):
         next[1] += 1
         i[1] += 1
         dfs(graph, next, visited)
-
 
 for i in range(1, n + 1):
     tmp = [[j, 0] for j in graph]
