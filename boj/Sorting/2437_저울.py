@@ -1,9 +1,13 @@
 from itertools import combinations
 n = int(input())
 num_list = list(map(int, input().split()))
-
+num_list.sort()
+target = 1
 for i in range(len(num_list)):
-    
+    if target < num_list[i]:
+        break
+    target += num_list[i]
+print(target)
 
 # 합의 조합
 # combi = []
