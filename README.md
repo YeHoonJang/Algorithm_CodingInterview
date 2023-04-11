@@ -16,6 +16,7 @@
 
 ### Chapter 4 구현  
 #### - [Example Problems][ch4_ex]  
+- [2460][2460] 지능형 기차 2  
 
 ### Chapter 5 DFS&BFS  
 #### - [Example Problems][ch5_ex]  
@@ -78,6 +79,7 @@
 [13458]: https://github.com/YeHoonJang/Algorithm_CodingInterview/blob/master/problems/Greedy/13458_시험감독.py  
 
 [ch4_ex]: https://github.com/YeHoonJang/Algorithm_CodingInterview/blob/master/This_Is_Coding_Test/Ch04_Implementation.ipynb  
+[2460]: https://github.com/YeHoonJang/Algorithm_CodingInterview/blob/master/problems/Implementation/2460_지능형기차2.py 
 
 [ch5_ex]: https://github.com/YeHoonJang/Algorithm_CodingInterview/blob/master/This_Is_Coding_Test/Ch05_DFS_BFS.ipynb  
 [2668]: https://github.com/YeHoonJang/Algorithm_CodingInterview/blob/master/problems/DFS_BFS/2668_숫자고르기.py 

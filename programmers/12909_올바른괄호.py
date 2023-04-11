@@ -4,7 +4,7 @@ def solution(s):
         if i == "(":
             stack.append(i)
         elif len(stack) and i == ")":
-            stack.pop(i)
+            stack.pop()
         else:
             return False
     return False if len(stack) else True
